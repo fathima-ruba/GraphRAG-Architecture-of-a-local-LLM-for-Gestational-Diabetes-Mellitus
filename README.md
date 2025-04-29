@@ -4,6 +4,8 @@
 
 This project aims to build a Graph-RAG (Retrieval-Augmented Generation) architecture for a local language model focused on Gestational Diabetes Mellitus (GDM). It combines the latest advancements in natural language processing and knowledge graph construction to provide meaningful insights by querying medical research articles related to GDM.
 
+F. Ruba, A. Nazir, E. Evangelista, S. Bukhari, L. bin Mohd Loft & R. Sharma. (2025.) Data Repository for GraphRAG-Architecture-of-a-local-LLM-for-Gestational-Diabetes-Mellitus. Available at: https://github.com/fathima-ruba/GraphRAG-Architecture-of-a-local-LLM-for-Gestational-Diabetes-Mellitus
+
 ## Project Structure
 
 ### 1. Data Collection
